@@ -14,9 +14,7 @@
 <img width="125" alt="image"
 src="https://github.com/alireza0/x-ui/assets/115543613/dd4f10dd-8bb0-40cf-846f-1fe1de7a6275">
 
-- USDT (TRC20): `TYTq73Gj6dJ67qe58JVPD9zpjW2cc9XgVz`
-- Tezos (XTZ):
-`tz2Wnh2SsY1eezXrcLChu6idWpgdHzUFQcts`
+
 
 
 ## Quick Overview
